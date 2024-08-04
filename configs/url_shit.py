@@ -2,11 +2,11 @@ import telegram
 
 
 def my_bot():
-    return telegram.Bot(token='your bot token')
+    return telegram.Bot(token='7041980499:AAEkk0mrGjKaYDKy8El_95aAdY3pLqr4aTM')
 
 
 def my_bot_token():
-    return 'your bot token'
+    return '7041980499:AAEkk0mrGjKaYDKy8El_95aAdY3pLqr4aTM'
 
 
 def scrap_master():
