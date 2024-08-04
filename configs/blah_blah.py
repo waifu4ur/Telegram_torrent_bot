@@ -2,7 +2,7 @@ from configs.url_shit import my_bot
 import telegram
 from telegram import ReplyKeyboardMarkup
 
-telegram_username = "Contact admin @your_telegram_user_name" #replace with your username
+telegram_username = "@Ariesaep" #replace with your username
 
 
 def welcome(chatid):
