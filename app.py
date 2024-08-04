@@ -32,7 +32,7 @@ class MQBot(telegram.bot.Bot):
 
 
 if __name__ == '__main__':
-    token = my_bot_token()
+    token = my_bot_token(7041980499:AAEkk0mrGjKaYDKy8El_95aAdY3pLqr4aTM)
     # limit global throughput to 3 messages per 3 seconds
     q = mq.MessageQueue(all_burst_limit=3, all_time_limit_ms=3000)
     # set connection pool size for bot
